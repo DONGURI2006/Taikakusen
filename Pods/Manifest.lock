@@ -1,0 +1,24 @@
+PODS:
+  - ACEDrawingView (2.2.1)
+  - Alamofire (5.12.0)
+  - SwiftyJSON (5.0.2)
+
+DEPENDENCIES:
+  - ACEDrawingView
+  - Alamofire (~> 5.12)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - ACEDrawingView
+    - Alamofire
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ACEDrawingView: fa6e8461682a54db3ac65151474fc77ef7e54fd2
+  Alamofire: ddb8d5201667b256dbc225f3fc6e835a0753186f
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+
+PODFILE CHECKSUM: 3c418b70182007cd35360ff02b705babd8cb4285
+
+COCOAPODS: 1.17.0
